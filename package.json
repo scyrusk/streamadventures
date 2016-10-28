@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "concat-stream": "^1.5.2",
+    "duplexer2": "^0.1.4",
+    "request": "^2.75.0",
+    "split": "^1.0.0",
+    "stream-combiner": "^0.2.2",
+    "tar": "^2.2.1",
+    "through": "^2.3.8",
+    "through2": "^2.0.1",
+    "trumpet": "^1.7.2",
+    "websocket-stream": "^3.3.0"
+  }
+}
